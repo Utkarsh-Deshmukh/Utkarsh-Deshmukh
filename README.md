@@ -6,11 +6,21 @@ Hi there 👋, I am Utkarsh. A computer vision enthusiast.
 On my GitHub, I strive to build projects as fully end-to-end runnable modules. My goal is to make every project as hassle-free, reproducible, and easy to run as possible.
 </h2>
 
-<h2>About Me&nbsp;·&nbsp;<a How to reach me: href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       alt="LinkedIn"
-       width="20" />
+<h2>About Me&nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="20" />
+  </a>&nbsp;·&nbsp;
+  <a href="mailto:utkarsh.deshmukh@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         alt="Email" width="20" />
+  </a>&nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=uKf7oDMAAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+         alt="Google Scholar" width="20" />
+  </a>
 </h2>
+
 
 <h3>Work Experience</h3>
 <table>
