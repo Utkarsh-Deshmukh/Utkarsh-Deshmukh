@@ -92,6 +92,9 @@ On my GitHub, I strive to build projects as fully end-to-end runnable modules. M
 [![Utkarsh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=utkarsh-deshmukh&theme=dracula&rank_icon=github&card_width=100)](https://github.com/Utkarsh-Deshmukh?tab=repositories)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=utkarsh-deshmukh&layout=donut&theme=dracula&card_width=100&langs_count=5)](https://github.com/Utkarsh-Deshmukh?tab=repositories)
 
+## 🌟 GitHub Stars Growth
+![GitHub Stars Growth](https://github.com/Utkarsh-Deshmukh/my-github-analytics/blob/main/assets/stars_history.png)
+
 <h2>
 </a>
 </h2>
