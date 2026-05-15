@@ -6,9 +6,9 @@ Hi there 👋, I am Utkarsh. A computer vision enthusiast.
 On my Github page, I try my best to keep all my projects as an end2end runnable modules. What that means is I want to make these modules as hassle-free and easily runnable as possible.
 </h2>
 <h3> About me:</h3>
-🔭 I’m currently working as a Computer Vision Developer at Rivian Automotives.
+🔭 I’m currently working as a Machine Learning Engineer at Meta.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-linkedin" height="15" width="15" /></a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-linkedin" height="10" width="10" /></a>
 
 ![](https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red)
 
