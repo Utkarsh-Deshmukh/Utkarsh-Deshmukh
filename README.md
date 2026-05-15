@@ -86,8 +86,6 @@ On my GitHub, I strive to build projects as fully end-to-end runnable modules. M
 </a>
 </h2>
 
------------------------------------------------
-
 <h3 align="left">Languages and Tools</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
