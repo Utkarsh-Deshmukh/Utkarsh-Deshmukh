@@ -8,7 +8,13 @@ On my Github page, I try my best to keep all my projects as an end2end runnable 
 <h3> About me:</h3>
 🔭 I’m currently working as a Machine Learning Engineer at Meta.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-linkedin" height="10" width="10" /></a>
+📫 Link to my linkedin profile: <a How to reach me: href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       width="15" />
+</a>
+
+
 
 ![](https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red)
 
