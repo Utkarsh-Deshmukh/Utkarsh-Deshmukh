@@ -21,8 +21,7 @@ On my GitHub, I strive to build projects as fully end-to-end runnable modules. M
   </a>
 </h2>
 
-
-<h3>Work Experience</h3>
+<h3> 🏢 Work Experience</h3>
 <table>
   <tr>
     <td width="72" align="center" valign="top">
@@ -84,22 +83,32 @@ On my GitHub, I strive to build projects as fully end-to-end runnable modules. M
 <h2>
 </a>
 </h2>
-<h3>Github Stats:</h3>
 
-
-![](https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red)
+<details open>
+  
+<summary><h3> 📈Github Stats: <img src="https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red" alt="Profile Views"/></h3></summary>
 
 [![Utkarsh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=utkarsh-deshmukh&theme=dracula&rank_icon=github&card_width=100)](https://github.com/Utkarsh-Deshmukh?tab=repositories)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=utkarsh-deshmukh&layout=donut&theme=dracula&card_width=100&langs_count=5)](https://github.com/Utkarsh-Deshmukh?tab=repositories)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh-deshmukh&theme=dark)](https://git.io/streak-stats)
 
-## 🌟 GitHub Stars Growth
+</details>
+
+<details open>
+
+<summary><h3> 🌟 GitHub Stars Growth </h3></summary>
+
 ![GitHub Stars Growth](https://github.com/Utkarsh-Deshmukh/my-github-analytics/blob/main/assets/stars_history.png)
+
+</details>
 
 <h2>
 </a>
 </h2>
 
-<h3 align="left">Languages and Tools</h3>
+<details open>
+
+<summary><h3 align="left"> 🛠️ Languages and Tools</h3></summary>
 
 <table border="0" cellspacing="0" cellpadding="0">
 
@@ -136,3 +145,5 @@ On my GitHub, I strive to build projects as fully end-to-end runnable modules. M
   </tr>
 
 </table>
+
+</details>
