@@ -63,6 +63,7 @@ On my Github page, I try my best to keep all my projects as an end2end runnable 
       <strong>Digimarc</strong><br/>
         <strong>Sr. Research and Development Engineer</strong><br/>
         <span style="color: #6e6e6e;">Jun 2018 – May 2020 &nbsp;</span><br/>
+        <br/>
         <strong>Research and Development Engineer</strong><br/>
         <span style="color: #6e6e6e;">Jun 2016 – Jun 2018 &nbsp;</span><br/>
         <span style="color: #6e6e6e;">Portland, OR &nbsp;</span>
