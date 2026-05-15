@@ -3,7 +3,7 @@ Hi there 👋, I am Utkarsh. A computer vision enthusiast.
 </h1>
 
 <h2 align="center">
-On my Github page, I try my best to keep all my projects as an end2end runnable modules. What that means is I want to make these modules as hassle-free and easily runnable as possible.
+On my GitHub, I strive to build projects as fully end-to-end runnable modules. My goal is to make every project as hassle-free, reproducible, and easy to run as possible.
 </h2>
 
 <h2>About Me&nbsp;·&nbsp;<a How to reach me: href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="_blank">
