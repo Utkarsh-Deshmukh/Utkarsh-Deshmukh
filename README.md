@@ -1,110 +1,181 @@
 <h1 align="center"> 
-Hi there 👋, I am Utkarsh. A computer vision enthusiast.
+  Hi there 👋, I am Utkarsh. A computer vision enthusiast.
 </h1>
 
+<h3 align="center">
+  On my GitHub, I strive to build projects as fully end-to-end runnable modules.
+  My goal is to make every project as hassle-free, reproducible, and easy to run as possible.
+</h3>
+
+---
+
 <h2 align="center">
-On my GitHub, I strive to build projects as fully end-to-end runnable modules. My goal is to make every project as hassle-free, reproducible, and easy to run as possible.
-</h2>
-
-<h2>About Me&nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="_blank">
+  About Me &nbsp;·&nbsp;<a href="https://www.linkedin.com/in/utkarsh-deshmukh-7b005275/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="20" />
-  </a>&nbsp;·&nbsp;
-  <a href="mailto:utkarsh.deshmukh@gmail.com">
+         alt="LinkedIn"
+         width="22" />
+  </a>&nbsp;·&nbsp;<a href="mailto:utkarsh.deshmukh@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         alt="Email" width="20" />
-  </a>&nbsp;·&nbsp;
-  <a href="https://scholar.google.com/citations?user=uKf7oDMAAAAJ&hl=en" target="_blank">
+         alt="Email"
+         width="22" />
+  </a>&nbsp;·&nbsp;<a href="https://scholar.google.com/citations?user=uKf7oDMAAAAJ&hl=en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
-         alt="Google Scholar" width="20" />
+         alt="Google Scholar"
+         width="22" />
   </a>
+</br>
+  <img src="https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red"
+       alt="Profile Views"/>
 </h2>
 
-<h3> 🏢 Work Experience</h3>
+
 <table>
-  <tr>
-    <td width="72" align="center" valign="top">
-      <img src="https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1780531200&v=beta&t=bzkyKvMYkRYz6ocxreOfBzs2lVRo162K--yn56ucsSQ"
-           alt="Meta"
-           width="100" />
-    </td>
-    <td valign="top">
-      <strong>Machine Learning Engineer</strong><br/>
-      <span>Meta &nbsp;·&nbsp; Full-time</span><br/>
-      <span style="color: #6e6e6e;">Aug 2025 – Present &nbsp;</span><br/>
-      <span style="color: #6e6e6e;">Menlo Park, CA &nbsp;</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="top">
-      <img src="https://media.licdn.com/dms/image/v2/D560BAQHTU9es0pYiLQ/company-logo_100_100/B56ZxlBae3KMAQ-/0/1771221395668/ambient_ai_logo?e=1780531200&v=beta&t=QFgUG-fYVA9hkGo0Eu_HX3xD7uPGcz8L29C_nB9HomA"
-           alt="Ambient AI"
-           width="60" />
-    </td>
-    <td valign="top">
-      <strong>Sr. Computer Vision Engineer</strong><br/>
-      <span>Ambient.ai &nbsp;·&nbsp; Full-time</span><br/>
-      <span style="color: #6e6e6e;">Feb 2025 – Aug 2025 &nbsp;</span><br/>
-      <span style="color: #6e6e6e;">Redwood City, CA &nbsp;</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="top">
-      <img src="https://media.licdn.com/dms/image/v2/C4E0BAQExEiomEFELIA/company-logo_100_100/company-logo_100_100/0/1632952934752/rivian_logo?e=1780531200&v=beta&t=pFtd8QCcEwY7aDpty9ii40nSd8OOdt2q-_OA0f0G8KI"
-           alt="Rivian"
-           width="60" />
-    </td>
-    <td valign="top">
-      <strong>Sr. Computer Vision Engineer</strong><br/>
-      <span>Rivian &nbsp;·&nbsp; Full-time</span><br/>
-      <span style="color: #6e6e6e;">May 2020 – Feb 2025 &nbsp;</span><br/>
-      <span style="color: #6e6e6e;">Palo Alto, CA &nbsp;</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="top">
-      <img src="https://media.licdn.com/dms/image/v2/D560BAQH5NueLMWC-7g/company-logo_100_100/company-logo_100_100/0/1719892791332/digimarc_logo?e=1780531200&v=beta&t=p5YJ3tP1nBowCd-h_ww0guz4j8aoDjS2Y8r1ZU3hMj4"
-           alt="Digimarc"
-           width="50" />
-    </td>
-    <td valign="top">
-      <strong>Digimarc</strong><br/>
-        <strong>Sr. Research and Development Engineer</strong><br/>
-        <span style="color: #6e6e6e;">Jun 2018 – May 2020 &nbsp;</span><br/>
-        <br/>
-        <strong>Research and Development Engineer</strong><br/>
-        <span style="color: #6e6e6e;">Jun 2016 – Jun 2018 &nbsp;</span><br/>
-        <span style="color: #6e6e6e;">Portland, OR &nbsp;</span>
-        </td>
-  </tr>
+<tr>
+
+<td valign="top" width="58%">
+
+<h3>🏢 Work Experience</h3>
+
+<table>
+
+<tr>
+<td width="72" align="center" valign="top">
+  <img
+    src="https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1780531200&v=beta&t=bzkyKvMYkRYz6ocxreOfBzs2lVRo162K--yn56ucsSQ"
+    alt="Meta"
+    width="95"
+  />
+</td>
+
+<td valign="top">
+  <strong>Machine Learning Engineer</strong><br/>
+  <span>Meta · Full-time</span><br/>
+  <span style="color:#6e6e6e;">Aug 2025 – Present</span><br/>
+  <span style="color:#6e6e6e;">Menlo Park, CA</span>
+</td>
+</tr>
+
+<tr><td colspan="2" height="12"></td></tr>
+
+<tr>
+<td width="72" align="center" valign="top">
+  <img
+    src="https://media.licdn.com/dms/image/v2/D560BAQHTU9es0pYiLQ/company-logo_100_100/B56ZxlBae3KMAQ-/0/1771221395668/ambient_ai_logo?e=1780531200&v=beta&t=QFgUG-fYVA9hkGo0Eu_HX3xD7uPGcz8L29C_nB9HomA"
+    alt="Ambient AI"
+    width="60"
+  />
+</td>
+
+<td valign="top">
+  <strong>Sr. Computer Vision Engineer</strong><br/>
+  <span>Ambient.ai · Full-time</span><br/>
+  <span style="color:#6e6e6e;">Feb 2025 – Aug 2025</span><br/>
+  <span style="color:#6e6e6e;">Redwood City, CA</span>
+</td>
+</tr>
+
+<tr><td colspan="2" height="12"></td></tr>
+
+<tr>
+<td width="72" align="center" valign="top">
+  <img
+    src="https://media.licdn.com/dms/image/v2/C4E0BAQExEiomEFELIA/company-logo_100_100/company-logo_100_100/0/1632952934752/rivian_logo?e=1780531200&v=beta&t=pFtd8QCcEwY7aDpty9ii40nSd8OOdt2q-_OA0f0G8KI"
+    alt="Rivian"
+    width="60"
+  />
+</td>
+
+<td valign="top">
+  <strong>Sr. Computer Vision Engineer</strong><br/>
+  <span>Rivian · Full-time</span><br/>
+  <span style="color:#6e6e6e;">May 2020 – Feb 2025</span><br/>
+  <span style="color:#6e6e6e;">Palo Alto, CA</span>
+</td>
+</tr>
+
+<tr><td colspan="2" height="12"></td></tr>
+
+<tr>
+<td width="72" align="center" valign="top">
+  <img
+    src="https://media.licdn.com/dms/image/v2/D560BAQH5NueLMWC-7g/company-logo_100_100/company-logo_100_100/0/1719892791332/digimarc_logo?e=1780531200&v=beta&t=p5YJ3tP1nBowCd-h_ww0guz4j8aoDjS2Y8r1ZU3hMj4"
+    alt="Digimarc"
+    width="50"
+  />
+</td>
+
+<td valign="top">
+
+<strong>Digimarc</strong><br/>
+
+<strong>Sr. Research and Development Engineer</strong><br/>
+<span style="color:#6e6e6e;">Jun 2018 – May 2020</span>
+
+<br/><br/>
+
+<strong>Research and Development Engineer</strong><br/>
+<span style="color:#6e6e6e;">Jun 2016 – Jun 2018</span><br/>
+<span style="color:#6e6e6e;">Portland, OR</span>
+
+</td>
+</tr>
+
 </table>
 
-<h2>
-</a>
-</h2>
+</td>
+
+<td valign="top" width="42%">
+
+<h3>
+📈 GitHub Stats
+</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=utkarsh-deshmukh&show_icons=true&theme=dracula&rank_icon=github"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=utkarsh-deshmukh&layout=compact&theme=dracula&langs_count=6"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=utkarsh-deshmukh&theme=dark"
+    width="100%"
+  />
+</p>
+
+
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <details open>
-  
-<summary><h3> 📈Github Stats: <img src="https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red" alt="Profile Views"/></h3></summary>
 
-[![Utkarsh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=utkarsh-deshmukh&theme=dracula&rank_icon=github&card_width=100)](https://github.com/Utkarsh-Deshmukh?tab=repositories)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=utkarsh-deshmukh&layout=donut&theme=dracula&card_width=100&langs_count=5)](https://github.com/Utkarsh-Deshmukh?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh-deshmukh&theme=dark)](https://git.io/streak-stats)
+<summary><h3>🌟 GitHub Stars Growth</h3></summary>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github.com/Utkarsh-Deshmukh/my-github-analytics/blob/main/assets/stars_history.png"
+    width="95%"
+  />
+</p>
 
 </details>
 
-<details open>
-
-<summary><h3> 🌟 GitHub Stars Growth </h3></summary>
-
-![GitHub Stars Growth](https://github.com/Utkarsh-Deshmukh/my-github-analytics/blob/main/assets/stars_history.png)
-
-</details>
-
-<h2>
-</a>
-</h2>
+---
 
 <details open>
 
