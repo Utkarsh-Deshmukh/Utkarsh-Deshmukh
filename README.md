@@ -217,6 +217,8 @@
 
 </table>
 
+</details>
+
 ---
 
 <details open>
