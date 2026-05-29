@@ -217,4 +217,90 @@
 
 </table>
 
+---
+
+<details open>
+<summary><h3 align="left"> 🏆 Patents & Innovation</h3></summary>
+
+> Inventor on 10+ granted patents in Computer Vision, Imaging Systems, Deep Learning, and Digital Watermarking.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+#### 💡 [Watermark Sensing Methods and Arrangements](https://patents.google.com/patent/US11450025B2/)
+**Patents**
+- *US11450025B2*
+- *US10853968B2*
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+
+#### 💡 [Aggregating detectability metrics to determine signal robustness](https://patents.google.com/patent/US10880451B2)
+**Patents:**
+- *US10880451B2*
+
+</td>
+<td width="33%" valign="top">
+
+#### 💡 [Detection of Encoded Signals and Icons.](https://patents.google.com/patent/US10803272B1)
+**Patents:**
+- *US10803272B1*
+- *US10853903B1*
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 💡 [Image processing arrangements](https://patents.google.com/patent/US11599744B2)
+**Patents:**
+- *US11599744B2*
+
+</td>
+<td width="33%" valign="top">
+
+#### 💡 [Tamper Detection arrangements, and point of sale systems employing same](https://patents.google.com/patent/US11636565B1)
+**Patents:**
+- *US11636565B1*
+
+</td>
+<td width="33%" valign="top">
+
+#### 💡 [Artwork Generated to convey digital messages, and methods to generate such artwork](https://patents.google.com/patent/US11704765B2)
+**Patents:**
+- *US11704765B2*
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+#### 💡 [Methods and arrangements for Localizing machine readable indicia](https://patents.google.com/patent/US20200410312A1)
+**Patents:**
+- *US20200410312A1*
+
+</td>
+<td width="33%" valign="top">
+
+#### 💡 [System and methods to determine camera blockage.](https://patents.google.com/patent/US11954894B2)
+**Patents:**
+- *US11954894B2*
+
+</td>
+<td width="33%" valign="top">
+
+#### 💡 [Systems and methods for determining image capture degradation of a camera sensor](https://patents.google.com/patent/US11798151B1)
+**Patents:**
+- *US11798151B1*
+
+</td>
+</tr>
+</table>
+
 </details>
