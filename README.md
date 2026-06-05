@@ -41,7 +41,7 @@
 <tr>
 <td width="72" align="center" valign="top">
   <img
-    src="https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1780531200&v=beta&t=bzkyKvMYkRYz6ocxreOfBzs2lVRo162K--yn56ucsSQ"
+    src="https://github.com/Utkarsh-Deshmukh/Utkarsh-Deshmukh/blob/main/logos/Meta.png"
     alt="Meta"
     width="95"
   />
@@ -60,7 +60,7 @@
 <tr>
 <td width="72" align="center" valign="top">
   <img
-    src="https://media.licdn.com/dms/image/v2/D560BAQHTU9es0pYiLQ/company-logo_100_100/B56ZxlBae3KMAQ-/0/1771221395668/ambient_ai_logo?e=1780531200&v=beta&t=QFgUG-fYVA9hkGo0Eu_HX3xD7uPGcz8L29C_nB9HomA"
+    src="https://github.com/Utkarsh-Deshmukh/Utkarsh-Deshmukh/blob/main/logos/Ambient.png"
     alt="Ambient AI"
     width="60"
   />
@@ -79,7 +79,7 @@
 <tr>
 <td width="72" align="center" valign="top">
   <img
-    src="https://media.licdn.com/dms/image/v2/C4E0BAQExEiomEFELIA/company-logo_100_100/company-logo_100_100/0/1632952934752/rivian_logo?e=1780531200&v=beta&t=pFtd8QCcEwY7aDpty9ii40nSd8OOdt2q-_OA0f0G8KI"
+    src="https://github.com/Utkarsh-Deshmukh/Utkarsh-Deshmukh/blob/main/logos/rivian.png"
     alt="Rivian"
     width="60"
   />
@@ -98,7 +98,7 @@
 <tr>
 <td width="72" align="center" valign="top">
   <img
-    src="https://media.licdn.com/dms/image/v2/D560BAQH5NueLMWC-7g/company-logo_100_100/company-logo_100_100/0/1719892791332/digimarc_logo?e=1780531200&v=beta&t=p5YJ3tP1nBowCd-h_ww0guz4j8aoDjS2Y8r1ZU3hMj4"
+    src="https://github.com/Utkarsh-Deshmukh/Utkarsh-Deshmukh/blob/main/logos/Digimarc.png"
     alt="Digimarc"
     width="50"
   />
