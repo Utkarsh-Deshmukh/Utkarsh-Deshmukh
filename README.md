@@ -168,7 +168,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/Utkarsh-Deshmukh/my-github-analytics/blob/main/assets/stars_history.png"
+    src="https://github.com/Utkarsh-Deshmukh/Utkarsh-Deshmukh/blob/main/assets/stars_history.png"
     width="95%"
   />
 </p>
