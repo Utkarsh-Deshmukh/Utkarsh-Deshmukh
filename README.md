@@ -48,7 +48,7 @@
 </td>
 
 <td valign="top">
-  <strong>Machine Learning Engineer</strong><br/>
+  <strong>Computer Vision Engineer</strong><br/>
   <span>Meta · Full-time</span><br/>
   <span style="color:#6e6e6e;">Aug 2025 – Present</span><br/>
   <span style="color:#6e6e6e;">Menlo Park, CA</span>
