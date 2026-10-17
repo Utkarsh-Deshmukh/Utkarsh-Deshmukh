@@ -24,8 +24,10 @@
          width="22" />
   </a>
 </br>
-  <img src="https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red"
-       alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=utkarsh-deshmukh&color=red"
+    alt="Profile Views"
+  />
 </h2>
 
 
